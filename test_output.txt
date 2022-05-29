@@ -1,0 +1,568 @@
+% python -m unittest bowler_test.py
+
+                        ---Bowling Game
+
+
+      <==========>
+
+
+      Frame: 1
+      First shot: 1
+      Second shot: 1
+      Bonus: 0
+      Frame-Score: 2
+      Game-Score: 2
+
+
+      <==========>
+
+
+      Frame: 2
+      First shot: 1
+      Second shot: 1
+      Bonus: 0
+      Frame-Score: 2
+      Game-Score: 4
+
+
+      <==========>
+
+
+      Frame: 3
+      First shot: 1
+      Second shot: 1
+      Bonus: 0
+      Frame-Score: 2
+      Game-Score: 6
+
+
+      <==========>
+
+
+      Frame: 4
+      First shot: 1
+      Second shot: 1
+      Bonus: 0
+      Frame-Score: 2
+      Game-Score: 8
+
+
+      <==========>
+
+
+      Frame: 5
+      First shot: 1
+      Second shot: 1
+      Bonus: 0
+      Frame-Score: 2
+      Game-Score: 10
+
+
+      <==========>
+
+
+      Frame: 6
+      First shot: 1
+      Second shot: 1
+      Bonus: 0
+      Frame-Score: 2
+      Game-Score: 12
+
+
+      <==========>
+
+
+      Frame: 7
+      First shot: 1
+      Second shot: 1
+      Bonus: 0
+      Frame-Score: 2
+      Game-Score: 14
+
+
+      <==========>
+
+
+      Frame: 8
+      First shot: 1
+      Second shot: 1
+      Bonus: 0
+      Frame-Score: 2
+      Game-Score: 16
+
+
+      <==========>
+
+
+      Frame: 9
+      First shot: 1
+      Second shot: 1
+      Bonus: 0
+      Frame-Score: 2
+      Game-Score: 18
+
+
+      <==========>
+
+
+      Frame: 10
+      First shot: 1
+      Second shot: 1
+      Bonus: 0
+      Frame-Score: 2
+      Game-Score: 20
+.
+                        ---Bowling Game
+
+
+      <==========>
+
+
+      Frame: 1
+      First shot: 10
+      Second shot: 0
+      Bonus: 20
+      Frame-Score: 30
+      Game-Score: 30
+
+
+      <==========>
+
+
+      Frame: 2
+      First shot: 10
+      Second shot: 0
+      Bonus: 20
+      Frame-Score: 30
+      Game-Score: 60
+
+
+      <==========>
+
+
+      Frame: 3
+      First shot: 10
+      Second shot: 0
+      Bonus: 20
+      Frame-Score: 30
+      Game-Score: 90
+
+
+      <==========>
+
+
+      Frame: 4
+      First shot: 10
+      Second shot: 0
+      Bonus: 20
+      Frame-Score: 30
+      Game-Score: 120
+
+
+      <==========>
+
+
+      Frame: 5
+      First shot: 10
+      Second shot: 0
+      Bonus: 20
+      Frame-Score: 30
+      Game-Score: 150
+
+
+      <==========>
+
+
+      Frame: 6
+      First shot: 10
+      Second shot: 0
+      Bonus: 20
+      Frame-Score: 30
+      Game-Score: 180
+
+
+      <==========>
+
+
+      Frame: 7
+      First shot: 10
+      Second shot: 0
+      Bonus: 20
+      Frame-Score: 30
+      Game-Score: 210
+
+
+      <==========>
+
+
+      Frame: 8
+      First shot: 10
+      Second shot: 0
+      Bonus: 20
+      Frame-Score: 30
+      Game-Score: 240
+
+
+      <==========>
+
+
+      Frame: 9
+      First shot: 10
+      Second shot: 0
+      Bonus: 20
+      Frame-Score: 30
+      Game-Score: 270
+
+
+      <==========>
+
+
+      Frame: 10
+      First shot: 10
+      Second shot: 0
+      Bonus: 20
+      Frame-Score: 30
+      Game-Score: 300
+.
+                        ---Bowling Game
+
+
+      <==========>
+
+
+      Frame: 1
+      First shot: 10
+      Second shot: 0
+      Bonus: 20
+      Frame-Score: 30
+      Game-Score: 30
+
+
+      <==========>
+
+
+      Frame: 2
+      First shot: 10
+      Second shot: 0
+      Bonus: 20
+      Frame-Score: 30
+      Game-Score: 60
+
+
+      <==========>
+
+
+      Frame: 3
+      First shot: 10
+      Second shot: 0
+      Bonus: 20
+      Frame-Score: 30
+      Game-Score: 90
+
+
+      <==========>
+
+
+      Frame: 4
+      First shot: 10
+      Second shot: 0
+      Bonus: 20
+      Frame-Score: 30
+      Game-Score: 120
+
+
+      <==========>
+
+
+      Frame: 5
+      First shot: 10
+      Second shot: 0
+      Bonus: 20
+      Frame-Score: 30
+      Game-Score: 150
+
+
+      <==========>
+
+
+      Frame: 6
+      First shot: 10
+      Second shot: 0
+      Bonus: 20
+      Frame-Score: 30
+      Game-Score: 180
+
+
+      <==========>
+
+
+      Frame: 7
+      First shot: 10
+      Second shot: 0
+      Bonus: 20
+      Frame-Score: 30
+      Game-Score: 210
+
+
+      <==========>
+
+
+      Frame: 8
+      First shot: 10
+      Second shot: 0
+      Bonus: 20
+      Frame-Score: 30
+      Game-Score: 240
+
+
+      <==========>
+
+
+      Frame: 9
+      First shot: 10
+      Second shot: 0
+      Bonus: 20
+      Frame-Score: 30
+      Game-Score: 270
+
+
+      <==========>
+
+
+      Frame: 10
+      First shot: 10
+      Second shot: 0
+      Bonus: 20
+      Frame-Score: 30
+      Game-Score: 300
+/Users/user/PycharmProjects/BowlingTestTask/bowler_test.py:29: DeprecationWarning: Please use assertEqual instead.
+  self.assertEquals(300, self.game.score())
+.
+                        ---Bowling Game
+
+
+      <==========>
+
+
+      Frame: 1
+      First shot: 10
+      Second shot: 0
+      Bonus: 6
+      Frame-Score: 16
+      Game-Score: 16
+
+
+      <==========>
+
+
+      Frame: 2
+      First shot: 3
+      Second shot: 3
+      Bonus: 0
+      Frame-Score: 6
+      Game-Score: 22
+
+
+      <==========>
+
+
+      Frame: 3
+      First shot: 0
+      Second shot: 0
+      Bonus: 0
+      Frame-Score: 0
+      Game-Score: 22
+
+
+      <==========>
+
+
+      Frame: 4
+      First shot: 0
+      Second shot: 0
+      Bonus: 0
+      Frame-Score: 0
+      Game-Score: 22
+
+
+      <==========>
+
+
+      Frame: 5
+      First shot: 0
+      Second shot: 0
+      Bonus: 0
+      Frame-Score: 0
+      Game-Score: 22
+
+
+      <==========>
+
+
+      Frame: 6
+      First shot: 0
+      Second shot: 0
+      Bonus: 0
+      Frame-Score: 0
+      Game-Score: 22
+
+
+      <==========>
+
+
+      Frame: 7
+      First shot: 0
+      Second shot: 0
+      Bonus: 0
+      Frame-Score: 0
+      Game-Score: 22
+
+
+      <==========>
+
+
+      Frame: 8
+      First shot: 0
+      Second shot: 0
+      Bonus: 0
+      Frame-Score: 0
+      Game-Score: 22
+
+
+      <==========>
+
+
+      Frame: 9
+      First shot: 0
+      Second shot: 0
+      Bonus: 0
+      Frame-Score: 0
+      Game-Score: 22
+
+
+      <==========>
+
+
+      Frame: 10
+      First shot: 0
+      Second shot: 0
+      Bonus: 0
+      Frame-Score: 0
+      Game-Score: 22
+.
+                        ---Bowling Game
+
+
+      <==========>
+
+
+      Frame: 1
+      First shot: 10
+      Second shot: 0
+      Bonus: 20
+      Frame-Score: 30
+      Game-Score: 30
+
+
+      <==========>
+
+
+      Frame: 2
+      First shot: 10
+      Second shot: 0
+      Bonus: 20
+      Frame-Score: 30
+      Game-Score: 60
+
+
+      <==========>
+
+
+      Frame: 3
+      First shot: 10
+      Second shot: 0
+      Bonus: 20
+      Frame-Score: 30
+      Game-Score: 90
+
+
+      <==========>
+
+
+      Frame: 4
+      First shot: 10
+      Second shot: 0
+      Bonus: 20
+      Frame-Score: 30
+      Game-Score: 120
+
+
+      <==========>
+
+
+      Frame: 5
+      First shot: 10
+      Second shot: 0
+      Bonus: 20
+      Frame-Score: 30
+      Game-Score: 150
+
+
+      <==========>
+
+
+      Frame: 6
+      First shot: 10
+      Second shot: 0
+      Bonus: 20
+      Frame-Score: 30
+      Game-Score: 180
+
+
+      <==========>
+
+
+      Frame: 7
+      First shot: 10
+      Second shot: 0
+      Bonus: 20
+      Frame-Score: 30
+      Game-Score: 210
+
+
+      <==========>
+
+
+      Frame: 8
+      First shot: 10
+      Second shot: 0
+      Bonus: 20
+      Frame-Score: 30
+      Game-Score: 240
+
+
+      <==========>
+
+
+      Frame: 9
+      First shot: 10
+      Second shot: 0
+      Bonus: 20
+      Frame-Score: 30
+      Game-Score: 270
+
+
+      <==========>
+
+
+      Frame: 10
+      First shot: 10
+      Second shot: 0
+      Bonus: 20
+      Frame-Score: 30
+      Game-Score: 300
+.
+----------------------------------------------------------------------
+Ran 5 tests in 0.003s
+
+OK
